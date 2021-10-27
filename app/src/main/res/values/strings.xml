@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modul 2 MDP 2021</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+
+    <string name="kel">Kelompok 21</string>
+    <string name="anggota">Muhammad Ilzam Muhtaromi - 21120119120027 \n
+            Muhammad Haikal Ash Shidqi - 21120119130081 \n
+            Bagus Muhamad Iqbal - 21120119120013 \n
+            Muhammad Hanif Atthariq - 21120117140028</string>
+</resources>
